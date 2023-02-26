@@ -31,7 +31,7 @@
 }
 .main{
     background-image: url(2.png);
-    background-size: 77vw 90vh;
+    background-size: 70vw 90vh;
     background-repeat: no-repeat;
     min-height: 90vh;
     display: flex;
@@ -49,10 +49,10 @@
 }
 .intro p{
     padding-right: 180px;
-    color: rgb(255, 255, 255);
+    color: rgb(242, 127, 127);
 }
 .img-sec{
-    width: 40%;
+    width: 40vw;
     padding-left: 170px;
 }
 .img-sec img{
