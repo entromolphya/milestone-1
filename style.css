@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    /* padding: 0; */
 }
 .container{
     border: 2px solid rgb(61, 61, 61);
@@ -48,8 +48,20 @@
     color: rgb(221, 236, 249);
 }
 .intro p{
-    padding-right: 180px;
-    color: rgb(242, 127, 127);
+    padding: 22px 48px 22px 50px;
+    color: rgb(0 0 0);
+    background-color: rgb(221 236 249 / 67%);
+    width: 300px;
+}
+
+#skill{
+    font-family: 'Lobster', cursive;
+    color:rgb(223, 247, 247);
+    font-size: 40px;
+}
+#skill_list{
+    padding-top:10px;
+    color: #e5f5ca;
 }
 .img-sec{
     width: 40vw;
